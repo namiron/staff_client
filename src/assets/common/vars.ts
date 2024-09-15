@@ -1,4 +1,4 @@
-export const STUFF = "Stuff";
+export const STAFF = "Staff";
 export const LOGIN = "Login";
 export const REGISTER = "Register";
 export const MESSAGE: string = "the field must be filled";

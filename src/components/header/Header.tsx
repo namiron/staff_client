@@ -9,7 +9,7 @@ import {
 } from "@ant-design/icons";
 import { Link, useNavigate } from "react-router-dom";
 import CustomButton from "../../assets/common/custom/CustomButton";
-import { EXIT, LOGIN, REGISTER, STUFF } from "../../assets/common/vars";
+import { EXIT, LOGIN, REGISTER, STAFF } from "../../assets/common/vars";
 import { ROUTES } from "../../routes/Routes.routes";
 import { useAppDispatch, useAppSelector } from "../../store/hooks/hooks";
 import { logout } from "../../store/services/authSlice";
@@ -37,7 +37,7 @@ const Header: React.FC = () => {
               style={{ marginBottom: "0px", color: "#fff" }}
               level={1}
             >
-              {STUFF}
+              {STAFF}
             </Typography.Title>
           </CustomButton>
         </Link>
