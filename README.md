@@ -88,14 +88,16 @@ The backend is built with the following technologies:
 
 Authentication: User login with JWT tokens.
 
-<img width="700" alt="staff-login" src="https://github.com/user-attachments/assets/6c19009b-6f7d-4b0c-ba12-f0529ee262f1">
+<img width="700" alt="staff-login" src="https://github.com/user-attachments/assets/b83fffe5-e0ab-470a-9100-6c2bcaaa0ae5">
+
+
 
 
 Employee Management: Ability to add, edit, and delete employee records.
 
 
-<img width="700" alt="staff-home" src="https://github.com/user-attachments/assets/4f0774cd-a2e9-48ff-b936-bfbe0ac5c9e8">
 
+<img width="700" alt="staff-home" src="https://github.com/user-attachments/assets/e47aa743-9e11-46cd-81a9-0a8cdc2adf00">
 
 # Running in Development Mode
 
